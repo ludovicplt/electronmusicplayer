@@ -1,0 +1,13 @@
+com/example/hikana/kana.java
+ com.example.hikana.kana
+com/example/hikana/adapter.java
+ com.example.hikana.adapter
+com/example/hikana/MainActivity2.java
+ com.example.hikana.MainActivity2
+com/example/hikana/BuildConfig.java
+ com.example.hikana.BuildConfig
+com/example/hikana/MainActivity.java
+ com.example.hikana.MainActivity
+ com.example.hikana.MainActivity$1
+com/example/hikana/menu.java
+ com.example.hikana.menu

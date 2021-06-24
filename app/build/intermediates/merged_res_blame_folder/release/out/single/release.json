@@ -1,0 +1,298 @@
+[
+    {
+        "merged": "/home/civodulap/experimentation/hikana/app/build/intermediates/res/merged/release/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "/home/civodulap/experimentation/hikana/app/build/generated/res/pngs/release/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/civodulap/experimentation/hikana/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/civodulap/experimentation/hikana/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/civodulap/experimentation/hikana/app/build/intermediates/res/merged/release/drawable_mi.png.flat",
+        "source": "/home/civodulap/experimentation/hikana/app/src/main/res/drawable/mi.png"
+    },
+    {
+        "merged": "/home/civodulap/experimentation/hikana/app/build/intermediates/res/merged/release/drawable_a.png.flat",
+        "source": "/home/civodulap/experimentation/hikana/app/src/main/res/drawable/a.png"
+    },
+    {
+        "merged": "/home/civodulap/experimentation/hikana/app/build/intermediates/res/merged/release/layout_activity_main2.xml.flat",
+        "source": "/home/civodulap/experimentation/hikana/app/src/main/res/layout/activity_main2.xml"
+    },
+    {
+        "merged": "/home/civodulap/experimentation/hikana/app/build/intermediates/res/merged/release/drawable_me.png.flat",
+        "source": "/home/civodulap/experimentation/hikana/app/src/main/res/drawable/me.png"
+    },
+    {
+        "merged": "/home/civodulap/experimentation/hikana/app/build/intermediates/res/merged/release/drawable_ra.png.flat",
+        "source": "/home/civodulap/experimentation/hikana/app/src/main/res/drawable/ra.png"
+    },
+    {
+        "merged": "/home/civodulap/experimentation/hikana/app/build/intermediates/res/merged/release/drawable_ku.png.flat",
+        "source": "/home/civodulap/experimentation/hikana/app/src/main/res/drawable/ku.png"
+    },
+    {
+        "merged": "/home/civodulap/experimentation/hikana/app/build/intermediates/res/merged/release/drawable_yu.png.flat",
+        "source": "/home/civodulap/experimentation/hikana/app/src/main/res/drawable/yu.png"
+    },
+    {
+        "merged": "/home/civodulap/experimentation/hikana/app/build/intermediates/res/merged/release/drawable_o.png.flat",
+        "source": "/home/civodulap/experimentation/hikana/app/src/main/res/drawable/o.png"
+    },
+    {
+        "merged": "/home/civodulap/experimentation/hikana/app/build/intermediates/res/merged/release/drawable_fu.png.flat",
+        "source": "/home/civodulap/experimentation/hikana/app/src/main/res/drawable/fu.png"
+    },
+    {
+        "merged": "/home/civodulap/experimentation/hikana/app/build/intermediates/res/merged/release/drawable_chi.png.flat",
+        "source": "/home/civodulap/experimentation/hikana/app/src/main/res/drawable/chi.png"
+    },
+    {
+        "merged": "/home/civodulap/experimentation/hikana/app/build/intermediates/res/merged/release/layout_activity_menu.xml.flat",
+        "source": "/home/civodulap/experimentation/hikana/app/src/main/res/layout/activity_menu.xml"
+    },
+    {
+        "merged": "/home/civodulap/experimentation/hikana/app/build/intermediates/res/merged/release/drawable_ma.png.flat",
+        "source": "/home/civodulap/experimentation/hikana/app/src/main/res/drawable/ma.png"
+    },
+    {
+        "merged": "/home/civodulap/experimentation/hikana/app/build/intermediates/res/merged/release/drawable_tsu.png.flat",
+        "source": "/home/civodulap/experimentation/hikana/app/src/main/res/drawable/tsu.png"
+    },
+    {
+        "merged": "/home/civodulap/experimentation/hikana/app/build/intermediates/res/merged/release/drawable_e.png.flat",
+        "source": "/home/civodulap/experimentation/hikana/app/src/main/res/drawable/e.png"
+    },
+    {
+        "merged": "/home/civodulap/experimentation/hikana/app/build/intermediates/res/merged/release/drawable_to.png.flat",
+        "source": "/home/civodulap/experimentation/hikana/app/src/main/res/drawable/to.png"
+    },
+    {
+        "merged": "/home/civodulap/experimentation/hikana/app/build/intermediates/res/merged/release/drawable_nu.png.flat",
+        "source": "/home/civodulap/experimentation/hikana/app/src/main/res/drawable/nu.png"
+    },
+    {
+        "merged": "/home/civodulap/experimentation/hikana/app/build/intermediates/res/merged/release/drawable_su.png.flat",
+        "source": "/home/civodulap/experimentation/hikana/app/src/main/res/drawable/su.png"
+    },
+    {
+        "merged": "/home/civodulap/experimentation/hikana/app/build/intermediates/res/merged/release/drawable_ri.png.flat",
+        "source": "/home/civodulap/experimentation/hikana/app/src/main/res/drawable/ri.png"
+    },
+    {
+        "merged": "/home/civodulap/experimentation/hikana/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "/home/civodulap/experimentation/hikana/app/build/generated/res/pngs/release/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/civodulap/experimentation/hikana/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/civodulap/experimentation/hikana/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/civodulap/experimentation/hikana/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/civodulap/experimentation/hikana/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/civodulap/experimentation/hikana/app/build/intermediates/res/merged/release/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "/home/civodulap/experimentation/hikana/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/civodulap/experimentation/hikana/app/build/intermediates/res/merged/release/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/civodulap/experimentation/hikana/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/civodulap/experimentation/hikana/app/build/intermediates/res/merged/release/drawable_hi.png.flat",
+        "source": "/home/civodulap/experimentation/hikana/app/src/main/res/drawable/hi.png"
+    },
+    {
+        "merged": "/home/civodulap/experimentation/hikana/app/build/intermediates/res/merged/release/drawable_se.png.flat",
+        "source": "/home/civodulap/experimentation/hikana/app/src/main/res/drawable/se.png"
+    },
+    {
+        "merged": "/home/civodulap/experimentation/hikana/app/build/intermediates/res/merged/release/drawable_ta.png.flat",
+        "source": "/home/civodulap/experimentation/hikana/app/src/main/res/drawable/ta.png"
+    },
+    {
+        "merged": "/home/civodulap/experimentation/hikana/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/civodulap/experimentation/hikana/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/civodulap/experimentation/hikana/app/build/intermediates/res/merged/release/layout_activity_main.xml.flat",
+        "source": "/home/civodulap/experimentation/hikana/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/civodulap/experimentation/hikana/app/build/intermediates/res/merged/release/drawable_mu.png.flat",
+        "source": "/home/civodulap/experimentation/hikana/app/src/main/res/drawable/mu.png"
+    },
+    {
+        "merged": "/home/civodulap/experimentation/hikana/app/build/intermediates/res/merged/release/drawable_logo.png.flat",
+        "source": "/home/civodulap/experimentation/hikana/app/src/main/res/drawable/logo.png"
+    },
+    {
+        "merged": "/home/civodulap/experimentation/hikana/app/build/intermediates/res/merged/release/drawable_re.png.flat",
+        "source": "/home/civodulap/experimentation/hikana/app/src/main/res/drawable/re.png"
+    },
+    {
+        "merged": "/home/civodulap/experimentation/hikana/app/build/intermediates/res/merged/release/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/civodulap/experimentation/hikana/app/build/generated/res/pngs/release/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/civodulap/experimentation/hikana/app/build/intermediates/res/merged/release/drawable_sa.png.flat",
+        "source": "/home/civodulap/experimentation/hikana/app/src/main/res/drawable/sa.png"
+    },
+    {
+        "merged": "/home/civodulap/experimentation/hikana/app/build/intermediates/res/merged/release/drawable_ro.png.flat",
+        "source": "/home/civodulap/experimentation/hikana/app/src/main/res/drawable/ro.png"
+    },
+    {
+        "merged": "/home/civodulap/experimentation/hikana/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/civodulap/experimentation/hikana/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/civodulap/experimentation/hikana/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "/home/civodulap/experimentation/hikana/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/civodulap/experimentation/hikana/app/build/intermediates/res/merged/release/drawable_wi.png.flat",
+        "source": "/home/civodulap/experimentation/hikana/app/src/main/res/drawable/wi.png"
+    },
+    {
+        "merged": "/home/civodulap/experimentation/hikana/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/civodulap/experimentation/hikana/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/civodulap/experimentation/hikana/app/build/intermediates/res/merged/release/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "/home/civodulap/experimentation/hikana/app/build/generated/res/pngs/release/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/civodulap/experimentation/hikana/app/build/intermediates/res/merged/release/drawable_ka.png.flat",
+        "source": "/home/civodulap/experimentation/hikana/app/src/main/res/drawable/ka.png"
+    },
+    {
+        "merged": "/home/civodulap/experimentation/hikana/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/civodulap/experimentation/hikana/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/civodulap/experimentation/hikana/app/build/intermediates/res/merged/release/drawable_ho.png.flat",
+        "source": "/home/civodulap/experimentation/hikana/app/src/main/res/drawable/ho.png"
+    },
+    {
+        "merged": "/home/civodulap/experimentation/hikana/app/build/intermediates/res/merged/release/drawable_u.png.flat",
+        "source": "/home/civodulap/experimentation/hikana/app/src/main/res/drawable/u.png"
+    },
+    {
+        "merged": "/home/civodulap/experimentation/hikana/app/build/intermediates/res/merged/release/drawable_te.png.flat",
+        "source": "/home/civodulap/experimentation/hikana/app/src/main/res/drawable/te.png"
+    },
+    {
+        "merged": "/home/civodulap/experimentation/hikana/app/build/intermediates/res/merged/release/drawable_ha.png.flat",
+        "source": "/home/civodulap/experimentation/hikana/app/src/main/res/drawable/ha.png"
+    },
+    {
+        "merged": "/home/civodulap/experimentation/hikana/app/build/intermediates/res/merged/release/drawable_na.png.flat",
+        "source": "/home/civodulap/experimentation/hikana/app/src/main/res/drawable/na.png"
+    },
+    {
+        "merged": "/home/civodulap/experimentation/hikana/app/build/intermediates/res/merged/release/drawable_yo.png.flat",
+        "source": "/home/civodulap/experimentation/hikana/app/src/main/res/drawable/yo.png"
+    },
+    {
+        "merged": "/home/civodulap/experimentation/hikana/app/build/intermediates/res/merged/release/drawable_ko.png.flat",
+        "source": "/home/civodulap/experimentation/hikana/app/src/main/res/drawable/ko.png"
+    },
+    {
+        "merged": "/home/civodulap/experimentation/hikana/app/build/intermediates/res/merged/release/drawable_so.png.flat",
+        "source": "/home/civodulap/experimentation/hikana/app/src/main/res/drawable/so.png"
+    },
+    {
+        "merged": "/home/civodulap/experimentation/hikana/app/build/intermediates/res/merged/release/drawable_n.png.flat",
+        "source": "/home/civodulap/experimentation/hikana/app/src/main/res/drawable/n.png"
+    },
+    {
+        "merged": "/home/civodulap/experimentation/hikana/app/build/intermediates/res/merged/release/drawable_ke.png.flat",
+        "source": "/home/civodulap/experimentation/hikana/app/src/main/res/drawable/ke.png"
+    },
+    {
+        "merged": "/home/civodulap/experimentation/hikana/app/build/intermediates/res/merged/release/drawable_we.png.flat",
+        "source": "/home/civodulap/experimentation/hikana/app/src/main/res/drawable/we.png"
+    },
+    {
+        "merged": "/home/civodulap/experimentation/hikana/app/build/intermediates/res/merged/release/drawable_ru.png.flat",
+        "source": "/home/civodulap/experimentation/hikana/app/src/main/res/drawable/ru.png"
+    },
+    {
+        "merged": "/home/civodulap/experimentation/hikana/app/build/intermediates/res/merged/release/drawable_shi.png.flat",
+        "source": "/home/civodulap/experimentation/hikana/app/src/main/res/drawable/shi.png"
+    },
+    {
+        "merged": "/home/civodulap/experimentation/hikana/app/build/intermediates/res/merged/release/drawable_he.png.flat",
+        "source": "/home/civodulap/experimentation/hikana/app/src/main/res/drawable/he.png"
+    },
+    {
+        "merged": "/home/civodulap/experimentation/hikana/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/civodulap/experimentation/hikana/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/civodulap/experimentation/hikana/app/build/intermediates/res/merged/release/drawable_ya.png.flat",
+        "source": "/home/civodulap/experimentation/hikana/app/src/main/res/drawable/ya.png"
+    },
+    {
+        "merged": "/home/civodulap/experimentation/hikana/app/build/intermediates/res/merged/release/drawable_ni.png.flat",
+        "source": "/home/civodulap/experimentation/hikana/app/src/main/res/drawable/ni.png"
+    },
+    {
+        "merged": "/home/civodulap/experimentation/hikana/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "/home/civodulap/experimentation/hikana/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/civodulap/experimentation/hikana/app/build/intermediates/res/merged/release/drawable_ki.png.flat",
+        "source": "/home/civodulap/experimentation/hikana/app/src/main/res/drawable/ki.png"
+    },
+    {
+        "merged": "/home/civodulap/experimentation/hikana/app/build/intermediates/res/merged/release/drawable_wa.png.flat",
+        "source": "/home/civodulap/experimentation/hikana/app/src/main/res/drawable/wa.png"
+    },
+    {
+        "merged": "/home/civodulap/experimentation/hikana/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/civodulap/experimentation/hikana/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/civodulap/experimentation/hikana/app/build/intermediates/res/merged/release/layout_adapter.xml.flat",
+        "source": "/home/civodulap/experimentation/hikana/app/src/main/res/layout/adapter.xml"
+    },
+    {
+        "merged": "/home/civodulap/experimentation/hikana/app/build/intermediates/res/merged/release/drawable_mo.png.flat",
+        "source": "/home/civodulap/experimentation/hikana/app/src/main/res/drawable/mo.png"
+    },
+    {
+        "merged": "/home/civodulap/experimentation/hikana/app/build/intermediates/res/merged/release/drawable_i.png.flat",
+        "source": "/home/civodulap/experimentation/hikana/app/src/main/res/drawable/i.png"
+    },
+    {
+        "merged": "/home/civodulap/experimentation/hikana/app/build/intermediates/res/merged/release/drawable_wo.png.flat",
+        "source": "/home/civodulap/experimentation/hikana/app/src/main/res/drawable/wo.png"
+    },
+    {
+        "merged": "/home/civodulap/experimentation/hikana/app/build/intermediates/res/merged/release/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/civodulap/experimentation/hikana/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/civodulap/experimentation/hikana/app/build/intermediates/res/merged/release/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "/home/civodulap/experimentation/hikana/app/build/generated/res/pngs/release/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/civodulap/experimentation/hikana/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/civodulap/experimentation/hikana/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/civodulap/experimentation/hikana/app/build/intermediates/res/merged/release/drawable_ne.png.flat",
+        "source": "/home/civodulap/experimentation/hikana/app/src/main/res/drawable/ne.png"
+    },
+    {
+        "merged": "/home/civodulap/experimentation/hikana/app/build/intermediates/res/merged/release/drawable_empty.png.flat",
+        "source": "/home/civodulap/experimentation/hikana/app/src/main/res/drawable/empty.png"
+    },
+    {
+        "merged": "/home/civodulap/experimentation/hikana/app/build/intermediates/res/merged/release/drawable_no.png.flat",
+        "source": "/home/civodulap/experimentation/hikana/app/src/main/res/drawable/no.png"
+    }
+]

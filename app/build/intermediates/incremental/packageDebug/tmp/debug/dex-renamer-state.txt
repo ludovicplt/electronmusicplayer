@@ -1,0 +1,4 @@
+#Fri Jun 11 10:46:36 RET 2021
+base.0=/home/civodulap/experimentation/hikana/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
